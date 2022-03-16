@@ -1,2 +1,6 @@
-# sus
-sus
+---
+layout: editorial
+---
+
+# Documentation
+
