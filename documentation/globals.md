@@ -12,7 +12,7 @@ local currentFps = globals:getFps()
 local frametime = globals:getFrametime() -- getFrametime equals 1.0 / getFps
 ```
 
-### getPosition(): Vec3d
+### getPosition(): [Vec3d](types/vec2d.md)
 
 ```lua
 local position = globals:getPosition()

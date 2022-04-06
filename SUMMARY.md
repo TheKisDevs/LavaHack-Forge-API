@@ -14,3 +14,7 @@
         * [Receive](documentation/callbacks/events/packetevent/receive.md)
     * [Hud](documentation/callbacks/hud.md)
   * [Globals](documentation/globals.md)
+  * [Types](documentation/types/README.md)
+    * [Color](documentation/types/color.md)
+    * [Vec3d](documentation/types/vec3d.md)
+    * [Vec2d](documentation/types/vec2d.md)
